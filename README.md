@@ -1,5 +1,9 @@
 # HeroesApp
 
+--Creacion de rutas mediante lazy loading
+--hijos de esos componentes generados con lazy loading que desprenden
+desde su propio componente padre con router-outlet
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
 ## Development server
