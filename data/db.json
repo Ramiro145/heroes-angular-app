@@ -16,28 +16,13 @@
       "characters": "Bruce Wayne"
     },
     {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
       "alter_ego": "Barry Allen",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
-    },
-    {
-      "id": "dc-green",
-      "superhero": "Green Lantern",
-      "publisher": "DC Comics",
-      "alter_ego": "Alan Scott",
-      "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "alt_img": null
     },
     {
       "id": "dc-arrow",
@@ -78,14 +63,6 @@
       "alter_ego": "Dan Garret",
       "first_appearance": "Mystery Men Comics #1",
       "characters": "Dan Garret, Ted Kord, Jaime Reyes"
-    },
-    {
-      "id": "dc-black",
-      "superhero": "Black Canary",
-      "publisher": "DC Comics",
-      "alter_ego": "Dinah Drake",
-      "first_appearance": "Flash Comics #86",
-      "characters": "Dinah Drake, Dinah Lance"
     },
     {
       "id": "marvel-spider",
@@ -142,22 +119,6 @@
       "alter_ego": "Matthew Michael Murdock",
       "first_appearance": "Daredevil #1",
       "characters": "Matthew Michael Murdock"
-    },
-    {
-      "id": "marvel-hawkeye",
-      "superhero": "Hawkeye",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Clinton Francis Barton",
-      "first_appearance": "Tales of Suspense #57",
-      "characters": "Clinton Francis Barton"
-    },
-    {
-      "id": "marvel-cyclops",
-      "superhero": "Cyclops",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Scott Summers",
-      "first_appearance": "X-Men #1",
-      "characters": "Scott Summers"
     },
     {
       "id": "marvel-silver",
